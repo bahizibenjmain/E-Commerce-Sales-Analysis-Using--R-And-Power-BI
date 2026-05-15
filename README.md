@@ -1,6 +1,6 @@
-# 📊 E-Commerce Sales Analysis Dashboard (Power BI + R)
+#  E-Commerce Sales Analysis Dashboard (Power BI + R)
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes an e-commerce sales dataset using **R Programming** and **Power BI** to uncover business insights related to sales performance, customer purchasing behavior, payment methods, and revenue trends.
 
@@ -11,7 +11,7 @@ The project combines:
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 The main objectives of this project were to:
 
@@ -25,7 +25,7 @@ The main objectives of this project were to:
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 ## Programming & Analysis
 - R Programming
@@ -40,7 +40,7 @@ The main objectives of this project were to:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -59,7 +59,7 @@ The Power BI dashboard includes:
 
 ---
 
-# 📈 Key Insights
+#  Key Insights
 
 - Certain products generated significantly higher revenue than others
 - Revenue trends varied across months and years
@@ -69,7 +69,7 @@ The Power BI dashboard includes:
 
 ---
 
-# 🧹 Data Cleaning Process
+#  Data Cleaning Process
 
 The dataset was cleaned in R by:
 - Removing missing values
@@ -79,15 +79,22 @@ The dataset was cleaned in R by:
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 ## Power BI Dashboard
 
-![Dashboard Screenshot](dashboard.png)
+<img width="578" height="323" alt="image" src="https://github.com/user-attachments/assets/66af25cf-edf9-49cc-bf70-be18c2724c25" />
+
+## R 
+
+<img width="1050" height="648" alt="image" src="https://github.com/user-attachments/assets/0f7103cc-9c7a-4dd8-8316-8fbe24d68594" />
+<img width="673" height="317" alt="image" src="https://github.com/user-attachments/assets/6b820423-8841-4968-81c6-9be0114277f1" />
+
+
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 Ecommerce-Sales-Analysis/
@@ -111,7 +118,7 @@ Ecommerce-Sales-Analysis/
 
 ---
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 
 ## R Analysis
 1. Open the `.Rmd` file in RStudio
@@ -124,16 +131,16 @@ Ecommerce-Sales-Analysis/
 
 ---
 
-# 👤 Author
+#  Author
 
 Benjamin BAHIZI SEBUJISHO
 
-- LinkedIn: [Add Your LinkedIn URL]
-- GitHub: [Add Your GitHub URL]
+- LinkedIn: https://www.linkedin.com/in/bahizi-sebujisho-benjamin-897b062a6/
+- GitHub: https://github.com/bahizibenjmain
 
 ---
 
-# ⭐ Project Status
+#  Project Status
 
 ✅ Completed  
 ✅ Portfolio Project  
