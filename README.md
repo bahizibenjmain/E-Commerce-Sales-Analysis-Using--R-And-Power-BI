@@ -85,12 +85,6 @@ The dataset was cleaned in R by:
 
 <img width="578" height="323" alt="image" src="https://github.com/user-attachments/assets/66af25cf-edf9-49cc-bf70-be18c2724c25" />
 
-## R 
-
-<img width="1050" height="648" alt="image" src="https://github.com/user-attachments/assets/0f7103cc-9c7a-4dd8-8316-8fbe24d68594" />
-<img width="673" height="317" alt="image" src="https://github.com/user-attachments/assets/6b820423-8841-4968-81c6-9be0114277f1" />
-
-
 
 ---
 
