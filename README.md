@@ -136,6 +136,6 @@ Benjamin BAHIZI SEBUJISHO
 
 #  Project Status
 
-✅ Completed  
-✅ Portfolio Project  
-✅ Published on GitHub & LinkedIn
+-Completed  
+-Portfolio Project  
+-Published on GitHub & LinkedIn
